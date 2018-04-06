@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="android_vertical_margin">16dp</dimen>
+    <dimen name="android_horizontal_margin">16dp</dimen>
+    <dimen name="buton_top_margin">36dp</dimen>
+</resources>
